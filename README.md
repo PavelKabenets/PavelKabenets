@@ -26,10 +26,8 @@ Solo developer based in Ukraine. 9+ years building mobile and web applications.
 
 #### 📌 Featured Projects
 - **[Essly — prototype](https://github.com/PavelKabenets/essly-prototype)** — Clickable web prototype of the Essly AI companion mobile app (Expo · React Native Web · TypeScript)
-- **[tappler](https://github.com/PavelKabenets/tappler)** — TODO: describe what it does (TypeScript)
+
 
 ---
 
-#### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=PavelKabenets&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PavelKabenets&layout=compact&theme=tokyonight)
+
